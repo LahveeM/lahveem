@@ -55,41 +55,36 @@
 ---
 
 ## 📂 Featured Projects
-🏦 Wealth Management & Trading Platform
-Client: LPL Financial
+🏦 Wealth Management & Trading Platform | LPL Financial
 
-Built Spring Boot microservices for account, portfolio, and trade workflows
-Implemented Kafka-based event processing for real-time data propagation
-Integrated React UI with secure REST APIs and PostgreSQL/Oracle databases
-========================================================================
-🏦 Core Banking & Payments Modernization
-Client: M&T Bank
+Spring Boot microservices for accounts, portfolios, and trades
+Kafka-based real-time event processing
+React UI with secure REST APIs, PostgreSQL & Oracle
 
-Developed backend services in Java & Spring Boot for banking transactions
-Implemented resilient REST APIs with retries, circuit breakers, and logging
-Deployed applications on cloud + Kubernetes with CI/CD pipelines
-======================================================================
-🏦 Enterprise Financial Data & Risk Platform
-Client: BNY Mellon
+🏦 Core Banking & Payments Modernization | M&T Bank
 
-Designed high-volume microservices for financial data ingestion and processing
-Used Kafka and batch jobs for large-scale data synchronization
-Optimized database performance on PostgreSQL and Oracle
-=====================================================================
-🚚 Logistics & Shipment Processing System
-Client: UPS
+Java & Spring Boot services for banking transactions
+Resilient REST APIs (retry, circuit breaker, logging)
+Cloud + Kubernetes deployments with CI/CD
 
-Built scalable Java services for shipment tracking and status updates
-Integrated event-driven messaging for real-time logistics workflows
-Improved system reliability using asynchronous processing patterns
-======================================================================
+🏦 Enterprise Financial Data & Risk Platform | BNY Mellon
+High-volume microservices for financial data ingestion
+Kafka + batch jobs for large-scale synchronization
+PostgreSQL & Oracle performance optimization
 
-🏛️ Healthcare Eligibility & Enrollment System
-Client: State of New York
+🚚 Logistics & Shipment Processing System | UPS
 
-Developed Spring Boot applications for citizen eligibility and enrollment
-Integrated with external healthcare systems using secure APIs
-Supported production deployments and compliance-driven releases
+Scalable Java services for shipment tracking
+Event-driven messaging for real-time workflows
+Async processing for system reliability
+
+🏛️ Healthcare Eligibility & Enrollment System | State of New York  
+
+Spring Boot apps for citizen eligibility & enrollment
+Secure API integrations with external healthcare systems
+Production support & compliance-driven releases
+
+
 ---
 
 ## 📫 Connect With Me
