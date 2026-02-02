@@ -55,11 +55,41 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 **Merchant Onboarding & Transaction Management System**
-- 🔹 **Financial Data Processing Platform**
-- 🔹 **High-volume Kafka Streaming Applications**
+🏦 Wealth Management & Trading Platform
+Client: LPL Financial
 
+Built Spring Boot microservices for account, portfolio, and trade workflows
+Implemented Kafka-based event processing for real-time data propagation
+Integrated React UI with secure REST APIs and PostgreSQL/Oracle databases
+========================================================================
+🏦 Core Banking & Payments Modernization
+Client: M&T Bank
 
+Developed backend services in Java & Spring Boot for banking transactions
+Implemented resilient REST APIs with retries, circuit breakers, and logging
+Deployed applications on cloud + Kubernetes with CI/CD pipelines
+======================================================================
+🏦 Enterprise Financial Data & Risk Platform
+Client: BNY Mellon
+
+Designed high-volume microservices for financial data ingestion and processing
+Used Kafka and batch jobs for large-scale data synchronization
+Optimized database performance on PostgreSQL and Oracle
+=====================================================================
+🚚 Logistics & Shipment Processing System
+Client: UPS
+
+Built scalable Java services for shipment tracking and status updates
+Integrated event-driven messaging for real-time logistics workflows
+Improved system reliability using asynchronous processing patterns
+======================================================================
+
+🏛️ Healthcare Eligibility & Enrollment System
+Client: State of New York
+
+Developed Spring Boot applications for citizen eligibility and enrollment
+Integrated with external healthcare systems using secure APIs
+Supported production deployments and compliance-driven releases
 ---
 
 ## 📫 Connect With Me
