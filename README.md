@@ -59,14 +59,11 @@
 - 🔹 **Financial Data Processing Platform**
 - 🔹 **High-volume Kafka Streaming Applications**
 
-_(More details coming soon…)_
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your.email@example.com
+
+- 📧 Email: lahityajavadev@gmail.com
 
 ---
-
-⭐️ *Feel free to explore my repositories and projects!*
