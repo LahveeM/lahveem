@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lahitya Vennela Mamidibattula  
+# Hi 👋, I'm Lahitya V M
 
 🚀 Senior Full Stack Java Developer | Backend-Focused | Cloud & Microservices  
 
